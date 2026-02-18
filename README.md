@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Gustavo%20Santana%20Alves&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=💻%20Dev.%20de%20Sistemas%20%7C%20🤖%20Robótica%20%7C%20⚡%20Inovação&descAlignY=58&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Gustavo%20Santana%20Alves&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=💻%20Dev.%20de%20Vendas%20%7C%20🤖%20Robótica%20%7C%20⚡%20Automação&descAlignY=58&descSize=18&descColor=8b949e"/>
 
 </div>
 
@@ -17,9 +17,6 @@
 ### 👨‍💻 Sobre mim
 
 Sou **Gustavo Santana Alves**, de **Santo Antônio de Jesus, Bahia** 🇧🇷.
-
-Minha trajetória começou na **Administração**, mas minha paixão sempre foi **inovação e tecnologia**. Hoje estou evoluindo no universo da TI, com foco em **desenvolvimento web**, **automação** e **robótica**.
-
 ```yaml
 nome: Gustavo Santana Alves
 localização: Bahia, Brasil 🇧🇷
@@ -44,16 +41,9 @@ interesses: [Robótica, Arduino, Dev Web, Automação]
     <td>Clube de Robótica — projetos com <strong>Arduino</strong> (CNC com sucata de DVD)</td>
   </tr>
   <tr>
-    <td>🔭</td>
-    <td>Medalha de <strong>Bronze</strong> — Olimpíada Brasileira de Astronomia (OBA)</td>
-  </tr>
   <tr>
     <td>♟️</td>
     <td><strong>3º lugar no Recôncavo Baiano</strong> — Jogos Escolares da Bahia (Xadrez)</td>
-  </tr>
-  <tr>
-    <td>🏆</td>
-    <td>Medalha de <strong>Ouro</strong> em Dominó Estadual — CEFCM</td>
   </tr>
   <tr>
     <td>🔬</td>
@@ -98,30 +88,6 @@ interesses: [Robótica, Arduino, Dev Web, Automação]
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alvesgs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🏅 Conquistas & Participações
-
-| Ano | 🏆 Conquista |
-|:---:|-------------|
-| 2022 | 🥉 Medalha de Bronze — Olimpíada Brasileira de Astronomia (OBA) |
-| 2024 | 🥇 Medalha de Ouro — Torneio de Dominó Estadual CEFCM |
-| 2024 | 🔬 Credencial FENECIT — Feira Nordestina de Ciência e Tecnologia |
-| 2024 | 🎪 Expositor — FLICA, MostraCSAJ, FENECIT |
-| 2025 | 🥉 3º lugar no Recôncavo Baiano — JEB (Xadrez) |
-| 2025 | 🤖 Projeto CNC com Arduino UNO usando sucata de DVD — SIEPE/UNEB |
-| 2025 | 📚 Expositor — FLIPO (Feira Literária do Poeta Castro Alves) |
-
----
-
-### 🐍 Minhas contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
