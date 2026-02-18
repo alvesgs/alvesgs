@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="URL_DA_SUA_IMAGEM_AQUI" width="100%" alt="Gustavo Alves Banner"/>
+<img src="<img width="3564" height="891" alt="Beige Minimalist Personal Business LinkedIn Banner" src="https://github.com/user-attachments/assets/e34a99c3-619b-431b-a9d0-7a416038bfec" />" width="100%" alt="Gustavo Alves Banner"/>
 
 </div>
 
@@ -14,6 +14,7 @@ Possuo base em **Administração**, o que fortalece minha organização, visão 
 Atualmente focado em **desenvolvimento web, lógica de programação e automação com Arduino**, buscando minha primeira oportunidade profissional na área de TI.
 
 Sou dedicado, disciplinado e movido por aprendizado constante.
+
 
 ---
 
