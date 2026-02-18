@@ -77,7 +77,3 @@
 
 ###
 
-<!-- GIF -->
-<p align="left">
-  <img height="250" src="https://i.gifer.com/3otv.gif"  />
-</p>
