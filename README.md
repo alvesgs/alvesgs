@@ -1,78 +1,83 @@
-<div align="center">
+<br clear="both">
 
-<img width="3564" height="891" alt="Beige Minimalist Personal Business LinkedIn Banner" src="https://github.com/user-attachments/assets/e34a99c3-619b-431b-a9d0-7a416038bfec" />
+<img width="4950" height="1238" alt="Beige Minimalist Personal Business LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/c278480d-bce8-40d1-923b-25ca3ac6600b" />
 
-</div>
+###
 
----
+<!-- Presentation -->
+<p>
+  Olá 👋, eu sou Gustavo! Um estudante apaixonado por Desenvolvimento de Sistemas e Robótica.
 
-## 👋 Sobre mim
-
-Sou **Gustavo Santana Alves**, estudante de **Técnico em Desenvolvimento de Sistemas (SENAC - BA)**.
-
-Possuo base em **Administração**, o que fortalece minha organização, visão estratégica e resolução de problemas.  
-Atualmente focado em **desenvolvimento web, lógica de programação e automação com Arduino**, buscando minha primeira oportunidade profissional na área de TI.
-
-Sou dedicado, disciplinado e movido por aprendizado constante.
+  -  Atualmente estou fazendo um curso Técnico de Desenvolvimento de Sistemas no SENAC-BA
 
 
----
+  -  Estou procurando minha primeira oportunidade de estágio em TI.
 
-## 🎯 Objetivo
+  - 💼 [Currículo Lattes](http://lattes.cnpq.br/0931312419616446)
+</p>
 
-Atuar como **estagiário em Desenvolvimento de Sistemas, Suporte ou áreas correlatas de TI**, contribuindo com comprometimento, raciocínio lógico e rápida adaptação.
+##
 
----
+<!-- Dropdown -->
+<details>
+  <summary>👨‍ Mais sobre mim:</summary>
 
-## 💻 Tecnologias
+  - 💬 Tenho experiência prévia em Administração e hoje aplico essa visão estratégica no desenvolvimento de soluções tecnológicas. Membro ativo do Clube de Robótica, onde desenvolvo projetos com Arduino e automação.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  - ⚡ Gosto de xadrez, dominó e astronomia. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
+</details>
 
----
-
-## 🚀 Projeto em Destaque
-
-🔧 **Mini CNC com Arduino UNO**  
-Projeto de automação desenvolvido com reaproveitamento de componentes de DVD.  
-Aplicação prática de eletrônica básica, lógica de programação e controle de motores.
-
----
-
-## 🌱 Hobbies & Interesses
-
-- 🤖 Robótica e automação
-- 💻 Tecnologia e inovação
-- ♟️ Xadrez (estratégia e raciocínio lógico)
-- 🚀 Aprendizado contínuo em programação
-
----
-
-## 📊 Estatísticas
+##
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvesgs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesgs&layout=compact&langs_count=7&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=alvesgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvesgs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-s-4b8712216)
-[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue?style=for-the-badge&logo=academia&logoColor=white)](http://lattes.cnpq.br/0931312419616446)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sougustavoalves)
-
----
-
-<div align="center">
-
-🚀 **Aberto a oportunidades de estágio e aprendizado na área de Tecnologia.**
-
+## Habilidades Técnicas:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
+
+###
+
+## Redes Sociais:
+<div align="left">
+  <a href="https://www.linkedin.com/in/gustavo-s-4b8712216" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/seu_usuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="http://lattes.cnpq.br/0931312419616446" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Lattes&logo=academia&label=&color=2C3E50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="lattes logo"  />
+  </a>
+  <a href="mailto:tavoalves38@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+<br clear="both">
+
+###
+
+<!-- GIF -->
+<p align="left">
+  <img height="250" src="https://i.gifer.com/3otv.gif"  />
+</p>
