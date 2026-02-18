@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="3564" height="891" alt="Beige Minimalist Personal Business LinkedIn Banner" src="https://github.com/user-attachments/assets/e34a99c3-619b-431b-a9d0-7a416038bfec" />" width="100%" alt="Gustavo Alves Banner"/>
+"<img width="3564" height="891" alt="Beige Minimalist Personal Business LinkedIn Banner" src="https://github.com/user-attachments/assets/e34a99c3-619b-431b-a9d0-7a416038bfec" />
 
 </div>
 
