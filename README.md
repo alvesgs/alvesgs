@@ -24,7 +24,7 @@
 
   - 💬 Tenho experiência prévia em Administração e hoje aplico essa visão estratégica no desenvolvimento de soluções tecnológicas. Membro ativo do Clube de Robótica, onde desenvolvo projetos com Arduino e automação.
 
-  - ⚡ Gosto de xadrez, dominó e astronomia. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
+  - ⚡ Gosto de xadrez, robótica e livros. Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e para a resolução de problemas.
 </details>
 
 ##
