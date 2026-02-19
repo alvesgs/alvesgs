@@ -40,19 +40,6 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvesgs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvesgs&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvesgs&theme=dracula&hide_border=false" height="150" alt="streak stats" />
-</div>
-
----
-
 ## 🛠️ Habilidades Técnicas
 
 <div align="left">
@@ -93,7 +80,3 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvesgs&color=6272a4&style=flat-square&label=Visualizações+do+perfil" alt="profile views" />
-</div>
