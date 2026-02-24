@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Olá, eu sou o Gustavo Alves 👋
+# Olá, me chamo Gustavo Alves 👋
 
 **Desenvolvedor de Sistemas · Técnico em Administração · Entusiasta de Robótica**
 
