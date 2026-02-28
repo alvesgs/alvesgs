@@ -9,6 +9,11 @@
 
 **Desenvolvedor de Sistemas · Técnico em Administração · Entusiasta de Robótica**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-s-4b8712216)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/sougustavoalves)
+[![Lattes](https://img.shields.io/static/v1?message=Lattes&logo=academia&label=&color=2C3E50&logoColor=white&labelColor=&style=for-the-badge)](http://lattes.cnpq.br/0931312419616446)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tavoalves38@gmail.com)
+
 </div>
 
 ---
@@ -57,21 +62,3 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 
 ---
 
-## 📬 Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-s-4b8712216" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/sougustavoalves" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram" />
-  </a>
-  <a href="http://lattes.cnpq.br/0931312419616446" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Lattes&logo=academia&label=&color=2C3E50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="lattes" />
-  </a>
-  <a href="mailto:tavoalves38@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-</div>
-
----
