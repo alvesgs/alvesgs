@@ -32,7 +32,11 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <summary>💡 <b>Um pouco mais sobre mim...</b></summary>
   <br/>
   
-  Tenho experiência prévia em **Administração** e hoje aplico essa visão estratégica no desenvolvimento de soluções tecnológicas. Acredito que nossos interesses pessoais — como o xadrez — contribuem para uma percepção mais refinada dos problemas e para encontrar soluções criativas e eficientes.
+  Minha base em **Administração** estruturou minha forma de pensar: organização, estratégia e responsabilidade nas decisões. Hoje aplico essa lógica no desenvolvimento de soluções tecnológicas, sempre buscando clareza, eficiência e propósito.
+
+  Interesses como o xadrez reforçam meu raciocínio analítico e minha visão de longo prazo, características que levo para projetos acadêmicos, tecnológicos e empreendedores.
+
+  Vejo a tecnologia como instrumento de construção. Meu foco é usar conhecimento para criar soluções consistentes e gerar impacto real.
 
   > *"A tecnologia move o mundo — e eu quero ser parte dessa força."*
   
