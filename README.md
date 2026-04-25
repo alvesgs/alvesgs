@@ -65,12 +65,13 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 </div>
 
 
-##  📊 GitHub Stats
+## 📊 GitHub Stats
+ 
 <p align="center">
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvesgs&theme=2077" />
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvesgs&theme=2077" />
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvesgs&theme=2077" />
+  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvesgs&theme=nord_dark" />
+  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvesgs&theme=nord_dark" />
+  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvesgs&theme=nord_dark" />
 </p>
 
----
+
 
