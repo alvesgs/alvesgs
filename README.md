@@ -64,5 +64,20 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
 </div>
 
+
+📊 GITHUB STATS
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvesgs&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvesgs&theme=nord_dark" />
+</p>
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvesgs&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alvesgs&theme=nord_dark&utcOffset=-3" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvesgs&theme=nord_dark" />
+</p>
+
+
 ---
 
