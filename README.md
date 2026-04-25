@@ -45,10 +45,11 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 ---
 
 
+
 ## 🛠️ Habilidades Técnicas
  
-<p align="left"><strong>Linguagens</strong></p>
-<div align="left">
+<p align="center"><strong>Linguagens</strong></p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
@@ -58,42 +59,28 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
-</div>
-<br/>
-<p align="left"><strong>Banco de Dados</strong></p>
-<div align="left">
+</p>
+<p align="center"><strong>Banco de Dados</strong></p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" title="SQLite" />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" title="Supabase" />
-</div>
-<br/>
-<p align="left"><strong>Cloud & DevOps</strong></p>
-<div align="left">
+</p>
+<p align="center"><strong>Cloud, DevOps & IoT</strong></p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-</div>
-<br/>
-<p align="left"><strong>Hardware & Design</strong></p>
-<div align="left">
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/IoT-Computação%20Embarcada-00b4d8?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" title="IoT" />
-</div>
-
-
+  <img src="https://img.shields.io/badge/IoT-Embarcados-00b4d8?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" title="IoT" />
+</p>
 ---
-
  
 ## 📊 GitHub Stats
  
