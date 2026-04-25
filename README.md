@@ -48,10 +48,13 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 
  
  
+ 
 ## 🛠️ Habilidades Técnicas
  
 <p align="left"><strong>Linguagens</strong></p>
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
