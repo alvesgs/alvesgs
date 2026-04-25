@@ -46,10 +46,11 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 
 
 
+ 
 ## 🛠️ Habilidades Técnicas
  
-<p align="center"><strong>Linguagens</strong></p>
-<p align="center">
+<p align="left"><strong>Linguagens</strong></p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
@@ -60,16 +61,16 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
 </p>
-<p align="center"><strong>Banco de Dados</strong></p>
-<p align="center">
+<p align="left"><strong>Banco de Dados</strong></p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" title="Supabase" />
 </p>
-<p align="center"><strong>Cloud, DevOps & IoT</strong></p>
-<p align="center">
+<p align="left"><strong>Cloud, DevOps & IoT</strong></p>
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
