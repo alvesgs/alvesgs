@@ -45,6 +45,7 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 ---
 
  
+ 
 ## 🛠️ Habilidades Técnicas
  
 <p align="left"><strong>Linguagens</strong></p>
@@ -61,7 +62,7 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
 </p>
-<p align="left"><strong>Ferramentas</strong></p>
+<p align="left"><strong>Tecnologias</strong></p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img width="8" />
@@ -76,7 +77,10 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" title="Figma" />
 </p>
+
 ---
  
 ## 📊 GitHub Stats
