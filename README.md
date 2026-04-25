@@ -65,13 +65,18 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 </div>
 
 
-## 📊 GitHub Stats
+---
+
+ 
+## 📊 GITHUB STATS
  
 <p align="center">
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvesgs&theme=nord_dark" />
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvesgs&theme=nord_dark" />
-  <img height="160px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvesgs&theme=nord_dark" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alvesgs&show_icons=true&theme=tokyonight&title_color=48cae4&icon_color=90e0ef&text_color=caf0f8&bg_color=0d1117&border_color=0077b6&border_radius=12" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alvesgs&layout=compact&theme=tokyonight&title_color=48cae4&text_color=caf0f8&bg_color=0d1117&border_color=0077b6&border_radius=12" />
 </p>
-
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvesgs&theme=nord_dark" />
+</p>
+ 
 
 
