@@ -47,19 +47,20 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 
 
  
+ 
 ## 🛠️ Habilidades Técnicas
  
 <p align="left"><strong>Linguagens</strong></p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
 </p>
 <p align="left"><strong>Banco de Dados</strong></p>
 <p align="left">
@@ -71,17 +72,16 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
 </p>
 <p align="left"><strong>Cloud, DevOps & IoT</strong></p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" title="Arduino" />
   <img width="8" />
   <img src="https://img.shields.io/badge/IoT-Embarcados-00b4d8?style=for-the-badge&logo=raspberry-pi&logoColor=white" height="28" title="IoT" />
 </p>
----
  
 ## 📊 GitHub Stats
  
