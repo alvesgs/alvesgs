@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, com background em Administração — o que me dá uma visão estratégica única na hora de criar soluções tecnológicas.
+Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, com background em Administração, o que me dá uma visão estratégica única na hora de criar soluções tecnológicas.
 
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no SENAC-BA
 - 🤖 Membro ativo do **Clube de Robótica**, desenvolvendo projetos com Arduino e automação
