@@ -63,7 +63,7 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" title="Python" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/G--code-FF6600?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMiAxOGMtMy4zMSAwLTYtMi42OS02LTZzMi42OS02IDYtNiA2IDIuNjkgNiA2LTIuNjkgNi02IDZ6Ii8+PC9zdmc+&logoColor=white&labelColor=FF6600" height="28" title="G-code" style="margin-top:13px" />
+  <img src="https://img.shields.io/badge/G--code-FF6600?style=flat-square&logoColor=white" height="28" title="G-code" />
 </p>
 <br/>
 <p align="left"><strong>Tecnologias & Plataformas</strong></p>
