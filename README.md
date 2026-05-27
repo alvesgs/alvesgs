@@ -63,7 +63,7 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" title="Python" />
   <img width="12" />
-  <img src="https://lasergrbl.com/wp-content/uploads/2016/12/cropped-lasergrbl_logo.png" height="55" title="LaserGRBL / G-code" />
+  <img src="https://lasergrbl.com/wp-content/uploads/2017/04/cropped-cropped-laser-engraving.jpg" height="55" title="LaserGRBL" />
 </p>
 <br/>
 <p align="left"><strong>Tecnologias & Plataformas</strong></p>
