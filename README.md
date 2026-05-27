@@ -63,7 +63,7 @@ Sou estudante apaixonado por **Desenvolvimento de Sistemas** e **Robótica**, co
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" title="Python" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/G--code-FF6600?style=flat-square&logoColor=white" height="28" title="G-code" />
+  <img src="https://cdn.simpleicons.org/lightburn/DA5B2C" height="55" title="LightBurn / G-code Laser" />
 </p>
 <br/>
 <p align="left"><strong>Tecnologias & Plataformas</strong></p>
