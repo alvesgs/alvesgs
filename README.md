@@ -10,7 +10,6 @@
 **Systems Developer · Business Administration Technician · Robotics Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-s-4b8712216)
-[![Lattes](https://img.shields.io/static/v1?message=Lattes&logo=academia&label=&color=2C3E50&logoColor=white&labelColor=&style=for-the-badge)](http://lattes.cnpq.br/0931312419616446)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:tavoalves38@gmail.com)
 
 </div>
