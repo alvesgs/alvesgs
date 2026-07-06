@@ -78,7 +78,7 @@ I am a student passionate about **Systems Development** and **Robotics**, with a
 <br/>
 <p align="left"><strong>Databases</strong></p>
 <p align="left">
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" title="MongoDB" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" title="PostgreSQL" />
   <img width="12" />
